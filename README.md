@@ -1,2 +1,2 @@
 # hello-world
-first repository
+I love cycling and not so much on programming.
